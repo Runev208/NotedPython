@@ -1,5 +1,6 @@
-import json
 import datetime
+import json
+
 
 def add_note():
     title = input("Введите заголовок заметки: ")
